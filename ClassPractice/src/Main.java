@@ -11,14 +11,14 @@ public class Main {
         s2.addCourse("Intro to French Pastries", 90);
         s2.addCourse("Physics", 72);
 
-        System.out.println(s1); // Print student1's information
-        s1.printCourses(); // Print student1's courses
+        System.out.println(s1); // Print student 1's information
+        s1.printCourses(); // Print student 1's courses
         System.out.println("Average Grade: " + s1.getAverageGrade());
 
         System.out.println();
 
-        System.out.println(s2); // Print student2's information
-        s2.printCourses(); // Print student2's courses
+        System.out.println(s2); // Print student 2's information
+        s2.printCourses(); // Print student 2's courses
         System.out.println("Average Grade: " + s2.getAverageGrade());
     }
 }
