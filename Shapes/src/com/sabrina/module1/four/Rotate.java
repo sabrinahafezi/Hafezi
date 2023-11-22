@@ -1,4 +1,4 @@
-package com.sabrina.module1.one;
+package com.sabrina.module1.four;
 public interface Rotate {
 
     void rotate90();

@@ -1,10 +1,9 @@
-package com.sabrina.module1.one;
+package com.sabrina.module1.three;
 
 public abstract class TwoDShape {
 
     protected double width;
     protected double height;
-
 
 
     public TwoDShape(){
@@ -30,12 +29,10 @@ public abstract class TwoDShape {
         return(width);
     }
 
-
     public void setHeight(double h)
     {
         height = h;
     }
-
 
     public double getHeight()
     {

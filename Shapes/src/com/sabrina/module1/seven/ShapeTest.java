@@ -1,4 +1,4 @@
-package com.sabrina.module1.one;
+package com.sabrina.module1.seven;
 public class ShapeTest {
     public static void main(String[] args) {
 

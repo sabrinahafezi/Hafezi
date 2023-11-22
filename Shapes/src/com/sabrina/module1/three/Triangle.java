@@ -1,5 +1,5 @@
-package com.sabrina.module1.one;
-public class Triangle extends TwoDShape {
+package com.sabrina.module1.three;
+public abstract class Triangle extends TwoDShape implements Rotate {
 
     protected double side1;
     protected double side2;
